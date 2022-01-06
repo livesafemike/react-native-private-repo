@@ -1,6 +1,6 @@
 {
   "name": "react-native",
-  "version": "0.61.5",
+  "version": "0.66.4",
   "bin": "./cli.js",
   "description": "A framework for building native apps using React",
   "license": "MIT",
@@ -81,7 +81,7 @@
     "test-ios": "./scripts/objc-test.sh test"
   },
   "peerDependencies": {
-    "react": "16.9.0"
+    "react": "17.0.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
@@ -145,8 +145,8 @@
     "jscodeshift": "^0.6.2",
     "mkdirp": "^0.5.1",
     "prettier": "1.17.0",
-    "react": "16.9.0",
-    "react-test-renderer": "16.9.0",
+    "react": "17.0.0",
+    "react-test-renderer": "17.0.0",
     "shelljs": "^0.7.8",
     "ws": "^6.1.4",
     "yargs": "^9.0.0"
